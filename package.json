@@ -1,0 +1,11 @@
+{
+  "name": "netlify-dev-cli-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:charlesmartinreed/netlify-dev-cli-demo.git",
+  "author": "charlesmartinreed <charlesmartinreed@icloud.com>",
+  "license": "MIT",
+  "dependencies": {
+    "random-words": "^1.1.0"
+  }
+}
